@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a machine learning engineer, mainly working for agriculture, aquaculture uysing computer vision, signal process and artificial intelligence. 
+I am a machine learning engineer, mainly working for agriculture, aquaculture using computer vision, signal process and artificial intelligence technologies. 
 
 I graduated from China Agiculture university, with a master degree in Agricultural electricity and automation, guided by Prof. Daoliang Li.I graduated from Shanxi Agriculture University, with a bachelor’s degree in Agricultural Mechanism and Automation. 
 
-My research interest includes artifical intelligence, signal processing and computer vision. 
+My research interests include artifical intelligence, signal processing and computer vision. 
 
 
 
@@ -73,8 +73,8 @@ F Peng, **Z Miao**, F Li, Z Li
 #- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
-# 💻 Employment
-- *2020.07 - 2023*, [China Mobile Chengdu Institute of Research and Development], China.
+# 💻 Employments
+- *2020.07 - 2023*, China Mobile Chengdu Institute of Research and Development, China.
 
 <!-- # 💻 Internships -->
 <!-- # - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

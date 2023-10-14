@@ -18,8 +18,8 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  - title: "Internships or Employment"
-    url: "/#-internships or Employment"
+  - title: "internships"
+    url: "/#-internships"
 
-  # - title: "internships"
-  #   url: "/#-internships"
+  - title: "Employments"
+    url: "/#-Employments"
