@@ -62,7 +62,7 @@ My research interests include artifical intelligence, signal processing and comp
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-# <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Patents
+# 📝 Patents
 - Patent: A method of drinking behavior recognition based on key point detection and displacement
 estimation. [Chinese]
 - Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
