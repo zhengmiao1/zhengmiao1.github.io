@@ -23,7 +23,7 @@ I earned my master's degree in Agricultural Electricity and Automation from Chin
 
 My research interests revolve around the realms of artificial intelligence, signal processing, and computer vision. These areas have been the focal points of my academic and professional pursuits.
 
-**I’m open to research and cooperations on related topics. Feel free to drop me an email.**
+**I’m open to collaborating on interdisciplinary research and projects. Feel free to drop me an email.**
 
 <!-- I am a machine learning engineer, mainly working for agriculture, aquaculture using computer vision, signal process and artificial intelligence technologies. 
 
