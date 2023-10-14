@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Machine Learning Engineer, specializing in the **application of computer vision, signal processing, and artificial intelligence technologies** within the domains of **agriculture** and **aquaculture**.
+I am a Machine Learning Engineer, specializing in the **application of Computer vision, Signal Processing, and Artificial Intelligence technologies** within the domains of **Agriculture** and **Aquaculture**.
 
 I earned my master's degree in Agricultural Electricity and Automation from China Agricultural University, under the guidance of **Prof. Daoliang Li**. My academic journey began with a bachelor's degree in Agricultural Mechanism and Automation from Shanxi Agriculture University.
 
 My research interests revolve around the realms of artificial intelligence, signal processing, and computer vision. These areas have been the focal points of my academic and professional pursuits.
+
+**I’m open to research and cooperations on related topics. Feel free to drop me an email.**
 
 <!-- I am a machine learning engineer, mainly working for agriculture, aquaculture using computer vision, signal process and artificial intelligence technologies. 
 
