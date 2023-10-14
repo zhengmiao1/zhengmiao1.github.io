@@ -69,7 +69,8 @@ estimation. [Chinese]
 
 
 # 🎖 Honors and Awards
-- *2013-2020* 
+
+  *2013-2020* 
 - National Encouragement Scholarship
 - The First Prize Scholarship
 - Excellent Students Awards
