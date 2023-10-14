@@ -74,7 +74,7 @@ F Peng, **Z Miao**, F Li, Z Li
 
 
 # 💻 Employment
-- *2020.07 - 2023 *, [China Mobile Chengdu Institute of Research and Development], China.
+- *2020.07 - 2023*, [China Mobile Chengdu Institute of Research and Development], China.
 
 <!-- # 💻 Internships -->
 <!-- # - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Miao"
   avatar           : "images/miaozheng/android-chrome-192x192.png"
-  bio              : "College"
+  bio              : "Machine Learning Engineer"  # "College"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
