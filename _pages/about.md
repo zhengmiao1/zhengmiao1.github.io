@@ -17,12 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a machine learning engineer, mainly working for agriculture, aquaculture using computer vision, signal process and artificial intelligence technologies. 
+I am a Machine Learning Engineer, specializing in the application of computer vision, signal processing, and artificial intelligence technologies within the domains of agriculture and aquaculture.
+
+I earned my master's degree in Agricultural Electricity and Automation from China Agricultural University, under the guidance of Professor Daoliang Li. My academic journey began with a bachelor's degree in Agricultural Mechanism and Automation from Shanxi Agriculture University.
+
+My research interests revolve around the realms of artificial intelligence, signal processing, and computer vision. These areas have been the focal points of my academic and professional pursuits.
+
+<!-- I am a machine learning engineer, mainly working for agriculture, aquaculture using computer vision, signal process and artificial intelligence technologies. 
 
 I graduated from China Agiculture university, with a master degree in Agricultural electricity and automation, guided by Prof. Daoliang Li.I graduated from Shanxi Agriculture University, with a bachelor’s degree in Agricultural Mechanism and Automation. 
 
-My research interests include artifical intelligence, signal processing and computer vision. 
-
+My research interests include artifical intelligence, signal processing and computer vision.  -->
 
 
 # 🔥 News
@@ -31,15 +36,16 @@ My research interests include artifical intelligence, signal processing and comp
 
 # 📝 Publications 
 
-[Automatic counting methods in aquaculture:A review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwas.12745)
+- [Automatic counting methods in aquaculture:A review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwas.12745)
 
-Li, D., **Z Miao**, Peng, F., Wang, L., &Zheng, Y.
+  Li, D., **Z Miao**, Peng, F., Wang, L., &Zheng, Y. 
+  *Expert Systems with Applications*, Vol. 182, 2021.
 
 
-[S-FPN: A shortcut feature pyramid network for sea cucumber detection in underwater images](https://doi.org/10.1016/j.eswa.2021.115306)
+- [S-FPN: A shortcut feature pyramid network for sea cucumber detection in underwater images](https://doi.org/10.1016/j.eswa.2021.115306)
 
-F Peng, **Z Miao**, F Li, Z Li
-
+  F Peng, **Z Miao**, F Li, Z Li
+  *World Aquaculture Society*, Vol. 52, pp. 263-495, 2021.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,6 +60,13 @@ F Peng, **Z Miao**, F Li, Z Li
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+# <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Patents
+- Patent: A method of drinking behavior recognition based on key point detection and displacement
+estimation. [Chinese]
+- Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
+
 
 # 🎖 Honors and Awards
 - *2013-2020* 
