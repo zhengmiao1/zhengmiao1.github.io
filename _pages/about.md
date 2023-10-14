@@ -21,7 +21,8 @@ I am a machine learning engineer, mainly working for agriculture, aquaculture uy
 
 I graduated from China Agiculture university, with a master degree in Agricultural electricity and automation, guided by Prof. Daoliang Li.I graduated from Shanxi Agriculture University, with a bachelor’s degree in Agricultural Mechanism and Automation. 
 
-# Zheng MiaoMy research interest includes artifical intelligence, signal processing and computer vision. I have published more than 100 papers at the top #international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span #id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img #src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes artifical intelligence, signal processing and computer vision. 
+
 
 
 # 🔥 News
@@ -38,7 +39,6 @@ Li, D., **Z Miao**, Peng, F., Wang, L., &Zheng, Y.
 [S-FPN: A shortcut feature pyramid network for sea cucumber detection in underwater images](https://doi.org/10.1016/j.eswa.2021.115306)
 
 F Peng, **Z Miao**, F Li, Z Li
-
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -62,6 +62,7 @@ F Peng, **Z Miao**, F Li, Z Li
 - Excellent Students Awards
 - Outstanding Graduates
 - Excellent Student Cadre
+  
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -70,8 +71,8 @@ F Peng, **Z Miao**, F Li, Z Li
 - *2013.09 - 2017.07*, Shanxi Agriculture University. 
 
 # 💬 Invited Talks
-# - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-#- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 <!-- # - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
