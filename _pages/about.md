@@ -75,10 +75,10 @@ estimation. [Chinese]
 <div class='paper-box-text' markdown="1">
 
 # Projects
-- list1
+
 
 # Blogs
-- list1
+
 
 # 🎖 Honors and Awards
 
