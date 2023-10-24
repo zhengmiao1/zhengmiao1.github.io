@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 I am a Machine Learning Engineer, specializing in the **application of Computer vision, Signal Processing, and Artificial Intelligence technologies** within the domains of **Agriculture** and **Aquaculture**.
 
 I earned my master's degree in Agricultural Electricity and Automation from China Agricultural University, under the guidance of **Prof. Daoliang Li**. My academic journey began with a bachelor's degree in Agricultural Mechanism and Automation from Shanxi Agriculture University.
@@ -32,11 +32,11 @@ I graduated from China Agiculture university, with a master degree in Agricultur
 My research interests include artifical intelligence, signal processing and computer vision.  -->
 
 
-# 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Publications
+
+
+## Article
 
 - [Automatic counting methods in aquaculture:A review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwas.12745)
 
@@ -64,11 +64,21 @@ My research interests include artifical intelligence, signal processing and comp
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-# 📝 Patents
+## Patents
 - Patent: A method of drinking behavior recognition based on key point detection and displacement
 estimation. [Chinese]
 - Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
 
+
+# Research
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/fish_counting.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# Projects
+- list1
+
+# Blogs
+- list1
 
 # 🎖 Honors and Awards
 
@@ -80,17 +90,16 @@ estimation. [Chinese]
 - Excellent Student Cadre
 
 
-# 📖 Educations
-- *2017.09 - 2020.07*, China Agriculture University. 
-- *2013.09 - 2017.07*, Shanxi Agriculture University. 
-
-<!-- # 💬 Invited Talks -->
-<!-- # - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-#- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<!-- # 💻 Internships -->
 
 
 # 💻 Employments
 - *2020.07 - 2023*, China Mobile Chengdu Institute of Research and Development, China.
 
-<!-- # 💻 Internships -->
-<!-- # - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 📖 Educations
+- *2017.09 - 2020.07*, China Agriculture University. 
+- *2013.09 - 2017.07*, Shanxi Agriculture University. 
+
+
+
