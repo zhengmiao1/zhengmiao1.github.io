@@ -7,7 +7,6 @@ main:
     url: "/#-publications"
 
   - title: "Research"
-<<<<<<< HEAD
     url: "/#-research"
 
   - title: "Projects"
@@ -18,24 +17,10 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-=======
-  url: "/#-Research"
->>>>>>> origin
 
-  - title: "Projects"
-  url: "/#-Projects"
+  - title: "Educations"
+    url: "/#-educations"
 
-  - title: "Tech blog"
-  url: "/#-Tech blog"
-
-
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
-  # - title: "Educations"
-  #   url: "/#-educations"
-
-<<<<<<< HEAD
   - title: "Employments"
     url: "/#-employments"
 
@@ -47,13 +32,3 @@ main:
 
   # - title: "News"
   #   url: "/#-news"
-=======
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-Internships"
-
-  # - title: "Employments"
-  #   url: "/#-Employments"
->>>>>>> origin
