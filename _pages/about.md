@@ -67,15 +67,28 @@ My research interests include artifical intelligence, signal processing and comp
 ## Patents
 - Patent: A method of drinking behavior recognition based on key point detection and displacement
 estimation. [Chinese]
-- Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A method of drinking behavior recognition </div><img src='images/research_and_projects/Patent_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+- Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A fallen fruit collection platform </div><img src='images/research_and_projects/Patent_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Patent: A location method indoors by Wi-Fi network. [Chinese]
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">A location method indoors </div><img src='images/research_and_projects/Patent_3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 # Research
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/fish_counting.png' alt="sym" width="100%"></div></div>
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/research_and_projects/fish_counting.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # Projects
 
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1. Algorithm of land cultivated by intelligence agricultural machine </div><img src='images/research_and_projects/Project_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2. Algorithm of Human Behavior Recognition </div><img src='images/research_and_projects/Project_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 # Blogs
 
