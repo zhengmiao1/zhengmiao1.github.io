@@ -49,6 +49,17 @@ My research interests include artifical intelligence, signal processing and comp
   F Peng, **Z Miao**, F Li, Z Li
   *World Aquaculture Society*, Vol. 52, pp. 263-495, 2021.
 
+<!-- - Automatic counting methods in aquaculture:A review. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwas.12745)
+
+  Li, D., **Z Miao**, Peng, F., Wang, L., &Zheng, Y. 
+  *Expert Systems with Applications*, Vol. 182, 2021.
+
+
+- S-FPN: A shortcut feature pyramid network for sea cucumber detection in underwater images. [Link](https://doi.org/10.1016/j.eswa.2021.115306)
+
+  F Peng, **Z Miao**, F Li, Z Li
+  *World Aquaculture Society*, Vol. 52, pp. 263-495, 2021. -->
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
