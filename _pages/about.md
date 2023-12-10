@@ -118,7 +118,7 @@ estimation. [Chinese]
 
 
 # 💻 Employments
-- *2020.07 - 2023*, China Mobile Chengdu Institute of Research and Development, China.
+<!-- - *2020.07 - 2023*, China Mobile Chengdu Institute of Research and Development, China. -->
 
 
 # 📖 Educations
