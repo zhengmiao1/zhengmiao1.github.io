@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a Machine Learning Engineer, specializing in the **application of Computer vision, Signal Processing, and Artificial Intelligence technologies** within the domains of **Agriculture** and **Aquaculture**.
+
+I am currently a first year Ph.D student in [FCCL](https://fccl.ucdavis.edu/), supervised in Prof. [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/).
+I once am a Machine Learning Engineer, specializing in the **application of Computer vision and Artificial Intelligence technologies** within the domains of **Agriculture** and **Aquaculture**.
 
 I earned my master's degree in Agricultural Electricity and Automation from China Agricultural University, under the guidance of **Prof. Daoliang Li**. My academic journey began with a bachelor's degree in Agricultural Mechanism and Automation from Shanxi Agriculture University.
 
@@ -95,11 +97,11 @@ estimation. [Chinese]
 
 # Projects
 
-<!-- - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1. Algorithm of land cultivated by intelligence agricultural machine </div><img src='images/research_and_projects/Project_1.png' alt="sym" width="100%"></div></div>
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1. Algorithm of land cultivated by intelligence agricultural machine </div><img src='images/research_and_projects/Project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2. Algorithm of Human Behavior Recognition </div><img src='images/research_and_projects/Project_2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 # Blogs
 
