@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a first year Ph.D student in [FCCL](https://fccl.ucdavis.edu/), supervised in Prof. [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/).
-I once am a Machine Learning Engineer, specializing in the **application of Computer vision and Artificial Intelligence technologies** within the domains of **Agriculture** and **Aquaculture**.
+I am currently a first year Ph.D student in [FCCL](https://fccl.ucdavis.edu/), supervised in Prof. [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research focus lies in the application of **Artificial Intelligence** in the fields of **Aquaculture** or **Agriculture**.
 
-I earned my master's degree in Agricultural Electricity and Automation from China Agricultural University, under the guidance of **Prof. Daoliang Li**. My academic journey began with a bachelor's degree in Agricultural Mechanism and Automation from Shanxi Agriculture University.
+I once employed as a Machine Learning Engineer for several years, specializing in the application of Computer vision and deep learning.
 
-My research interests revolve around the realms of artificial intelligence, signal processing, and computer vision. These areas have been the focal points of my academic and professional pursuits.
+I earned my master's degree in Agricultural Electricity and Automation from China Agricultural University, under the supervision of [Prof. Daoliang Li](https://faculty.cau.edu.cn/xxdqxy/ldl_en/list.htm). My academic journey began with a bachelor's degree in Agricultural Mechanism and Automation from Shanxi Agriculture University.
+
+<!-- My research interests revolve around the applications in Aquaculture or Agriculture using artificial intelligence, signal processing, computer vision etc. These areas have been the focal points of my academic and professional pursuits. -->
 
 **I’m open to collaborating on interdisciplinary research and projects. Feel free to drop me an email.**
 
@@ -97,11 +98,11 @@ estimation. [Chinese]
 
 # Projects
 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1. Algorithm of land cultivated by intelligence agricultural machine </div><img src='images/research_and_projects/Project_1.png' alt="sym" width="100%"></div></div>
+<!-- - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1. Algorithm of land cultivated by intelligence agricultural machine </div><img src='images/research_and_projects/Project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2. Algorithm of Human Behavior Recognition </div><img src='images/research_and_projects/Project_2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 # Blogs
 
@@ -120,12 +121,15 @@ estimation. [Chinese]
 
 
 # 💻 Employments
+- *2020.07 - 2023*
 <!-- - *2020.07 - 2023*, China Mobile Chengdu Institute of Research and Development, China. -->
 
 
 # 📖 Educations
-- *2017.09 - 2020.07*, China Agriculture University. 
-- *2013.09 - 2017.07*, Shanxi Agriculture University. 
+- *2024 - present*, University of California, Davis. [UCD](https://www.ucdavis.edu/)
+- *2017.09 - 2020.07*, China Agriculture University. [CAU](https://www.cau.edu.cn/)
+- *2013.09 - 2017.07*, Shanxi Agriculture University. [SXAU](https://www.sxau.edu.cn/)
+  
 
 
 
