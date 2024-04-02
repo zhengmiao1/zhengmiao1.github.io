@@ -144,6 +144,21 @@
       border-bottom-right-radius: 0;
     }
 
+    // second，third module added personal
+    &:second-child {
+      margin-left: 1px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+
+    
+    &:third-child {
+      margin-left: 2px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+
+    
     &:last-child {
       margin-left: -1px;
       border-top-left-radius: 0;
