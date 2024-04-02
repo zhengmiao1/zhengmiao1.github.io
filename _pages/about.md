@@ -96,7 +96,9 @@ estimation. [Chinese]
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/research_and_projects/fish_counting.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+
 # Projects
+
 
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/research_and_projects/fish_counting.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
