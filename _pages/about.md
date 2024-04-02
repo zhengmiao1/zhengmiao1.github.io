@@ -92,11 +92,14 @@ estimation. [Chinese]
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">A location method indoors </div><img src='images/research_and_projects/Patent_3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-# Research
+<!-- # Thesis
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/research_and_projects/fish_counting.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 # Projects
+
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/research_and_projects/fish_counting.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <!-- - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1. Algorithm of land cultivated by intelligence agricultural machine </div><img src='images/research_and_projects/Project_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

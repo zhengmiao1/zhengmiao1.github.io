@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Research"
-    url: "/#-research"
+  # - title: "Research"
+  #   url: "/#-research"
 
   - title: "Projects"
     url: "/#-projects"
@@ -15,14 +15,14 @@ main:
   - title: "Blogs"
     url: "/#-blogs"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
-  - title: "Employments"
-    url: "/#-employments"
+  # - title: "Employments"
+  #   url: "/#-employments"
 
   # # - title: "Invited Talks"
   # #   url: "/#-invited-talks"
