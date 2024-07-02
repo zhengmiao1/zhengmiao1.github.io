@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Miao"
-description              : "Personal website"
+description              : "University of California, Davis"
 repository               : "zhengmiao1/zhengmiao1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zheng Miao"
   avatar           : "images/profile_2024/android-chrome-192x192.png"
   bio              : # "Machine Learning Engineer"  # "College"
-  location         : "CA, USA"
+  location         : "Davis, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : https://www.linkedin.com/in/zheng-miao-8128b5248/ # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
