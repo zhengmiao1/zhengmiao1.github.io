@@ -19,11 +19,11 @@ redirect_from:
 # About Me
 I am currently a Ph.D. student in the [Hung lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) at the University of California, Davis, under the supervision of [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research interests focus on the application of Artificial Intelligence within the domains of Aquaculture and Agriculture
 
-Prior to my doctoral studies, I worked as a Machine Learning Engineer, where I specialized in the application of **Computer Vision** and **Deep Learning* techniques.
+Prior to my doctoral studies, I worked as a Machine Learning Engineer, where I specialized in the application of **Computer Vision** and **Deep Learning** techniques.
 
-I completed my Master's degree in Agricultural Electricity and Automation at China Agricultural University, under the mentorship of Prof. [Daoliang Li](https://faculty.cau.edu.cn/xxdqxy/ldl_en/list.htm). My academic journey began with a Bachelor's degree in Agricultural Mechanization and Automation from Shanxi Agricultural University.
+<!-- I completed my Master's degree in Agricultural Electricity and Automation at China Agricultural University, under the mentorship of Prof. [Daoliang Li](https://faculty.cau.edu.cn/xxdqxy/ldl_en/list.htm). My academic journey began with a Bachelor's degree in Agricultural Mechanization and Automation from Shanxi Agricultural University.
 
-Feel free to drop me an email to  to discuss potential collaborations on research and projects.. 
+Feel free to drop me an email to  to discuss potential collaborations on research and projects..  -->
 
 <!-- I am currently a first year Ph.D student in [Hung lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) Lab at UC Davis, supervised in Prof. [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research focus lies in the application of **Artificial Intelligence** in the fields of **Aquaculture** or **Agriculture**.
 
@@ -35,9 +35,11 @@ I earned my master's degree in Agricultural Electricity and Automation from Chin
 **I’m open to collaborating on interdisciplinary research and projects. Feel free to drop me an email.** -->
 
 
+# News
 
 
-# 📝 Publications
+<!-- # 📝 Publications -->
+# Publications
 
 
 ## Selected papers
@@ -81,6 +83,22 @@ estimation. [Chinese]
 <div class='paper-box-text' markdown="1"> -->
 
 
+
+
+<!-- # Blogs -->
+
+
+<!-- # 🎖 Honors and Awards  -->
+
+
+  <!-- - *2013-2020*   -->
+<!-- - National Encouragement Scholarship -->
+<!-- - The First Prize Scholarship -->
+<!-- - Excellent Students Awards -->
+<!-- - Outstanding Graduates -->
+<!-- - Excellent Student Cadre  -->
+
+
 # Thesis
 
 
@@ -93,32 +111,25 @@ estimation. [Chinese]
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2. Algorithm of Human Behavior Recognition </div><img src='images/research_and_projects/Project_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-# Blogs
 
 
-# 🎖 Honors and Awards
 
-  *2013-2020* 
-- National Encouragement Scholarship
-- The First Prize Scholarship
-- Excellent Students Awards
-- Outstanding Graduates
-- Excellent Student Cadre
+
 
 
 <!-- # 💻 Internships -->
 
 
-# 💻 Employments
-- *2020.07 - 2023*
+<!-- # 💻 Employments -->
+<!-- - *2020.07 - 2023* -->
 <!-- - *2020.07 - 2023*, China Mobile Chengdu Institute of Research and Development, China. -->
 
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2024 - present*, University of California, Davis. [UCD](https://www.ucdavis.edu/)
 - *2017.09 - 2020.07*, China Agriculture University. [CAU](https://www.cau.edu.cn/)
 - *2013.09 - 2017.07*, Shanxi Agriculture University. [SXAU](https://www.sxau.edu.cn/)
-  
+   -->
 
 
 
