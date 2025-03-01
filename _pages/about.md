@@ -17,6 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
+I am currently a Ph.D. student in the [Hung lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) at the University of California, Davis, under the supervision of [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research interests focus on the application of Artificial Intelligence within the domains of Aquaculture and Agriculture
+
+Prior to my doctoral studies, I worked as a Machine Learning Engineer, where I specialized in the application of **Computer Vision** and **Deep Learning* techniques.
+
+I completed my Master's degree in Agricultural Electricity and Automation at China Agricultural University, under the mentorship of Prof. [Daoliang Li](https://faculty.cau.edu.cn/xxdqxy/ldl_en/list.htm). My academic journey began with a Bachelor's degree in Agricultural Mechanization and Automation from Shanxi Agricultural University.
+
 
 I am currently a first year Ph.D student in [Hung lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) Lab at UC Davis, supervised in Prof. [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research focus lies in the application of **Artificial Intelligence** in the fields of **Aquaculture** or **Agriculture**.
 
