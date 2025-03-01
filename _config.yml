@@ -15,13 +15,13 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  G-0Y8TR3D8JR# get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification : #https://search.google.com/search-console?utm_source=about-page&resource_id=https://zhengmiao1.github.io/ # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Zheng Miao"
+  name             : "Zheng Miao (苗政)"
   avatar           : "images/android-chrome-192x192.png"
   bio              : # "Machine Learning Engineer"  # "College"
   location         : "Davis, CA, USA"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin zheng-miao-8128b5248" # ttps://www.linkedin.com/in/zheng-miao-8128b5248/  # e.g., "linkedin username"
+  linkedin         : https://www.linkedin.com/in/zheng-miao-8128b5248/ #"linkedin zheng-miao-8128b5248" # ttps://www.linkedin.com/in/zheng-miao-8128b5248/  # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
