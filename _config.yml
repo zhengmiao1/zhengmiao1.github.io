@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NJT1fnwAAAAJ&hl=en&oi=ao" #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zhmiao@ucdavis.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zheng-Miao-8" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/zheng-miao-8128b5248/ #"linkedin zheng-miao-8128b5248" # ttps://www.linkedin.com/in/zheng-miao-8128b5248/  # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/zheng-miao-8128b5248" #"linkedin zheng-miao-8128b5248" # ttps://www.linkedin.com/in/zheng-miao-8128b5248/  # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0004-4930-0108" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
