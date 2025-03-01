@@ -80,7 +80,7 @@ estimation. [Chinese]
 
 - Patent: A location method indoors by Wi-Fi network. [Chinese]
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">A location method indoors </div><img src='images/research_and_projects/Patent_3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> --> -->
+<div class='paper-box-text' markdown="1">  -->
 
 <!-- # Thesis
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/research_and_projects/fish_counting.png' alt="sym" width="100%"></div></div>
