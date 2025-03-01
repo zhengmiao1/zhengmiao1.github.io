@@ -39,18 +39,11 @@ My research interests include artifical intelligence, signal processing and comp
 # 📝 Publications
 
 
-## Article
+## Selected papers
 
-- [Automatic counting methods in aquaculture:A review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwas.12745)
+- [Automatic counting methods in aquaculture:A review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwas.12745) Li, D., **Z Miao**, Peng, F., Wang, L., &Zheng, Y. *World Aquaculture Society*, Vol. 52, pp. 263-495, 2021
 
-  Li, D., **Z Miao**, Peng, F., Wang, L., &Zheng, Y. 
-  *World Aquaculture Society*, Vol. 52, pp. 263-495, 2021
-
-
-- [S-FPN: A shortcut feature pyramid network for sea cucumber detection in underwater images](https://doi.org/10.1016/j.eswa.2021.115306)
-
-  F Peng, **Z Miao**, F Li, Z Li
-  *Expert Systems with Applications*, Vol. 52, 2021.
+- [S-FPN: A shortcut feature pyramid network for sea cucumber detection in underwater images](https://doi.org/10.1016/j.eswa.2021.115306) F Peng, **Z Miao**, F Li, Z Li *Expert Systems with Applications*, Vol. 52, 2021.
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
