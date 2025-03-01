@@ -12,7 +12,7 @@ repository               : "zhengmiao1/zhengmiao1.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-0Y8TR3D8JR# get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : linkedin Zheng Miao # ttps://www.linkedin.com/in/zheng-miao-8128b5248/  # e.g., "linkedin username"
+  linkedin         : "linkedin zheng-miao-8128b5248" # ttps://www.linkedin.com/in/zheng-miao-8128b5248/  # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
