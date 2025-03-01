@@ -23,22 +23,17 @@ Prior to my doctoral studies, I worked as a Machine Learning Engineer, where I s
 
 I completed my Master's degree in Agricultural Electricity and Automation at China Agricultural University, under the mentorship of Prof. [Daoliang Li](https://faculty.cau.edu.cn/xxdqxy/ldl_en/list.htm). My academic journey began with a Bachelor's degree in Agricultural Mechanization and Automation from Shanxi Agricultural University.
 
+Feel free to drop me an email to  to discuss potential collaborations on research and projects.. 
 
-I am currently a first year Ph.D student in [Hung lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) Lab at UC Davis, supervised in Prof. [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research focus lies in the application of **Artificial Intelligence** in the fields of **Aquaculture** or **Agriculture**.
+<!-- I am currently a first year Ph.D student in [Hung lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) Lab at UC Davis, supervised in Prof. [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research focus lies in the application of **Artificial Intelligence** in the fields of **Aquaculture** or **Agriculture**.
 
 I was employed as a Machine Learning Engineer for several years, specializing in the application of Computer vision and deep learning.
 
 I earned my master's degree in Agricultural Electricity and Automation from China Agricultural University, under the supervision of Prof. [Daoliang Li](https://faculty.cau.edu.cn/xxdqxy/ldl_en/list.htm). My academic journey began with a bachelor's degree in Agricultural Mechanism and Automation from Shanxi Agriculture University.
 
-<!-- My research interests revolve around the applications in Aquaculture or Agriculture using artificial intelligence, signal processing, computer vision etc. These areas have been the focal points of my academic and professional pursuits. -->
 
-**I’m open to collaborating on interdisciplinary research and projects. Feel free to drop me an email.**
+**I’m open to collaborating on interdisciplinary research and projects. Feel free to drop me an email.** -->
 
-<!-- I am a machine learning engineer, mainly working for agriculture, aquaculture using computer vision, signal process and artificial intelligence technologies. 
-
-I graduated from China Agiculture university, with a master degree in Agricultural electricity and automation, guided by Prof. Daoliang Li.I graduated from Shanxi Agriculture University, with a bachelor’s degree in Agricultural Mechanism and Automation. 
-
-My research interests include artifical intelligence, signal processing and computer vision.  -->
 
 
 
