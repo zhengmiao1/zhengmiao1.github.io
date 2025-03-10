@@ -36,7 +36,7 @@ I earned my master's degree in Agricultural Electricity and Automation from Chin
 
 
 # News
-
+Conference for world aquaculture 2025!
 
 <!-- # 📝 Publications -->
 # Publications
@@ -62,25 +62,33 @@ I earned my master's degree in Agricultural Electricity and Automation from Chin
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+# Poster
+- Poster: An Interpretable AI Model for Sex Classification of
+Delta Smelt Based on Phenotypic Appearance
+estimation. 
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A method of drinking behavior recognition </div><img src='images/research_and_projects/Poster_UCDavis_for_Aquaculture.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 
-<!-- ## Patents
+
+# Patents
 - Patent: A method of drinking behavior recognition based on key point detection and displacement
 estimation. [Chinese]
-<!-- - <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A method of drinking behavior recognition </div><img src='images/research_and_projects/Patent_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A method of drinking behavior recognition </div><img src='images/research_and_projects/Patent_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!-- - Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
+- Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A fallen fruit collection platform </div><img src='images/research_and_projects/Patent_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Patent: A location method indoors by Wi-Fi network. [Chinese]
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">A location method indoors </div><img src='images/research_and_projects/Patent_3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">  -->
+<div class='paper-box-text' markdown="1"> 
 
 <!-- # Thesis
 - <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fish Counting</div><img src='images/research_and_projects/fish_counting.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
 
 
 
