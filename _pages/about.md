@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am currently a Ph.D. student in the [Hung lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) at the University of California, Davis, under the supervision of [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research interests focus on the application of Artificial Intelligence within the domains of Aquaculture and Agriculture
+I am currently a Ph.D. student in the [Aquaculture Engineering Lab](https://faculty.engineering.ucdavis.edu/hung/lab-members-2/research-team-members/) at the University of California, Davis, under the supervision of [Tien-Chieh Hung](https://faculty.engineering.ucdavis.edu/hung/). My primary research interests focus on the application of Artificial Intelligence within the domains of Aquaculture and Agriculture
 
 Prior to my doctoral studies, I worked as a Machine Learning Engineer, where I specialized in the application of **Computer Vision** and **Deep Learning** techniques.
 
