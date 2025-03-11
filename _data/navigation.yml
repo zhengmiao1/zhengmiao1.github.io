@@ -4,13 +4,15 @@ main:
     url: "/#about-me"
     
   - title: "Research"
-    url: "/#-research"
+    url: "/#research"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
   
-  - title: "CV"
-  url: "/#cv"
+  # - title: "CV"
+  #   url: "/#cv"
+
+
 
   # - title: "Blogs"
   #   url: "/#-blogs"
