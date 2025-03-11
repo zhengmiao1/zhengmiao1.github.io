@@ -36,13 +36,11 @@ I earned my master's degree in Agricultural Electricity and Automation from Chin
 
 
 # News
-Conference for world aquaculture 2025!
+- Conference for world aquaculture 2025!
+- PhD student at UC Davis, 2024!
 
 <!-- # 📝 Publications -->
-# Publications
-
-
-## Selected papers
+# Publications (Selected papers)
 
 - [Automatic counting methods in aquaculture:A review](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jwas.12745) Li, D., **Z Miao**, Peng, F., Wang, L., &Zheng, Y. *World Aquaculture Society*, Vol. 52, pp. 263-495, 2021
 
@@ -66,7 +64,7 @@ Conference for world aquaculture 2025!
 - Poster: An Interpretable AI Model for Sex Classification of
 Delta Smelt Based on Phenotypic Appearance
 estimation. 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A method of drinking behavior recognition </div><img src='images/research_and_projects/Poster_UCDavis_for_Aquaculture.pdf' alt="sym" width="100%"></div></div>
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">  </div><img src='images/research_and_projects/Poster_UCDavis_for_Aquaculture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -74,15 +72,15 @@ estimation.
 # Patents
 - Patent: A method of drinking behavior recognition based on key point detection and displacement
 estimation. [Chinese]
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A method of drinking behavior recognition </div><img src='images/research_and_projects/Patent_1.png' alt="sym" width="100%"></div></div>
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">  </div><img src='images/research_and_projects/Patent_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Patent: A fallen fruit collection platform based on electromagnetic induction mechanism. [Chinese]
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> A fallen fruit collection platform </div><img src='images/research_and_projects/Patent_2.png' alt="sym" width="100%"></div></div>
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">  </div><img src='images/research_and_projects/Patent_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Patent: A location method indoors by Wi-Fi network. [Chinese]
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">A location method indoors </div><img src='images/research_and_projects/Patent_3.png' alt="sym" width="100%"></div></div>
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/research_and_projects/Patent_3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 <!-- # Thesis
@@ -90,8 +88,14 @@ estimation. [Chinese]
 <div class='paper-box-text' markdown="1"> -->
 
 
+# Projects
+- Project: Cultivated farmland areas calculation
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">  </div><img src='images/research_and_projects/Project_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-
+- Project: Human behavior recognition 
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">  </div><img src='images/research_and_projects/Project_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <!-- # Blogs -->
 

@@ -15,6 +15,9 @@ main:
   - title: "Projects"
   url: "/#-Projects"
 
+  - title: "CV"
+  url: "/#-CV"
+
   
 
   # - title: "Honors and Awards"
